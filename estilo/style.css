@@ -1,0 +1,23 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    width: 100vw;
+    height: 100vh;
+}
+
+header{
+    background-color:darkgray;
+}
+body{
+    background-color: rgb(209, 208, 208);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+main{
+    background-color: white;
+}
